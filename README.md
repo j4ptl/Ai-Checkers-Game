@@ -4,7 +4,8 @@
 
 We have developed a terminal version of this game.
 
-![ss](./checkers.png)
+![ss](![Uploading ChessTimeGIF.gif…]()
+)
 
 # How to run the game?
 <!-- 
