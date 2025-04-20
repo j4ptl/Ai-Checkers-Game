@@ -11,6 +11,7 @@ $ cd Checkers
 $ gcc main.c checkers.c
 $ ./a.out
 ``` -->
+http://127.0.0.1:5500/jp.html
 
 # How to play the game?
 
